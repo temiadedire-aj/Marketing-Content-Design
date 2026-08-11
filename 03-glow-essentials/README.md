@@ -6,7 +6,7 @@ Social Media Design • Beauty & Skincare Marketing
 
 ## Overview
 
-A social media design series created for a beauty and skincare brand, combining product-focused visuals with clean, editorial styling to communicate the brand's products and encourage purchase.
+A social media design series created for a beauty and skincare brand, using clean compositions and product-focused visuals to communicate the brand and its offerings.
 
 ## Creative Focus
 
@@ -18,4 +18,18 @@ A social media design series created for a beauty and skincare brand, combining 
 
 ## Design Approach
 
-The designs use strong typography, beauty-focused imagery and clean compositions to create a polished visual identity while keeping the products at the centre of the content.
+The designs use strong typography, beauty-focused imagery and clean compositions to keep the products at the centre of the content while creating a polished and engaging visual presence.
+
+## Selected Work
+
+### Skincare Campaign
+
+![Skincare Campaign](./Skincare.png)
+
+### Skincare Social Media Design
+
+![Skincare Social Media Design](./Skincare.jpeg)
+
+## Tools
+
+Canva
