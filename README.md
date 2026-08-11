@@ -1,42 +1,61 @@
-# Mercy & Grills — Social Media Campaign
+# Marketing & Content Design
 
-### Project Type
-Social Media Design • Food & Restaurant Marketing
+A selection of social media, marketing and visual communication work created across personal projects, client work and brand development.
 
-### Overview
-
-A social media design series created for Mercy & Grills to promote its food offerings, delivery service and promotional offers.
-
-The campaign combines bold food imagery, promotional messaging and clear calls to action designed to make the products immediately appealing and encourage customers to order.
-
-### My Role
-
-- Developed visual concepts for social media
-- Designed promotional graphics in Canva
-- Created layouts for different food offerings and promotions
-- Adapted the visual style across multiple posts
-- Focused on clear messaging, product presentation and customer action
-
-### Tools
-
-**Canva**
+I combine creative design with clear messaging, audience awareness and practical marketing thinking.
 
 ---
 
-## Selected Designs
+## Selected Work
 
-### Food Delivery
+### 01 — Mercy & Grills
+**Social Media Campaign**
 
-<img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/food%201.jpeg" width="500">
+Food and restaurant promotional designs created to showcase products, communicate offers and encourage customers to order.
 
-### Food Promotion
+[View Project →](./01-mercy-and-grills)
 
-<img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/food%202.jpeg" width="500">
+---
 
-### Food Promotion
+### 02 — Lord of Tee
+**Brand Identity & Social Media**
 
-<img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/food%203.jpeg" width="500">
+A visual identity concept exploring luxury, fashion and premium positioning through social media and brand assets.
 
+---
+
+### 03 — Glow Essentials
+**Beauty & Product Marketing**
+
+Social media visuals focused on product presentation, beauty branding and promotional communication.
+
+---
+
+### 04 — ZYRIX
+**Content & Business Communication**
+
+Educational and strategic content created around business growth, customer experience and marketing systems.
+
+---
+
+## Skills & Tools
+
+- Social Media Design
+- Content Development
+- Marketing Communications
+- Visual Storytelling
+- Canva
+- Microsoft Office
+- Google Workspace
+- Notion
+
+---
+
+## About
+
+I enjoy turning ideas into content that is clear, useful and visually engaging.
+
+My background in business analysis and operations also influences how I approach creative work — I think about the audience, the message and what the content is ultimately trying to achieve.
 ### Food Promotion
 
 <img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/food%204.jpeg" width="500">
