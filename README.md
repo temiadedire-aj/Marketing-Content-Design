@@ -18,8 +18,3 @@ Brand identity and social media design exploring premium fashion, traditional in
 
 [View Project →](./02-lord-of-tee)
 
-<img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/food%204.jpeg" width="500">
-
-### Mercy & Grills
-
-<img src="https://raw.githubusercontent.com/temiadedire-aj/Marketing-Content-Design/main/01-mercy-and-grills/Mercy%20grill.jpeg" width="500">
