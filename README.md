@@ -17,4 +17,11 @@ Brand Identity & Fashion
 Brand identity and social media design exploring premium fashion, traditional influence and modern luxury.
 
 [View Project →](./02-lord-of-tee)
+---
 
+### 03 — Glow Essentials
+**Beauty & Skincare Marketing**
+
+Social media visuals focused on product presentation, beauty branding and promotional communication.
+
+[View Project →](./03-glow-essentials)
